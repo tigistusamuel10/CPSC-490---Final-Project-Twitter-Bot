@@ -1,5 +1,5 @@
 # CPSC-490---Final-Project-Twitter-Bot
-Qbot.py is the main file of the project. 
+Q_bot.py is the main file of the project. 
 
 This repo is not meant to be ran as it is in active development and running on a live account
 
