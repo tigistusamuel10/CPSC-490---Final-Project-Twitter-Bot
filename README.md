@@ -1,11 +1,8 @@
 # CPSC-490---Final-Project-Twitter-Bot
 
 Samuel Tigistu
-
 Yale University
-
 CPSC 490 - Senior Project
-
 B.S. Computer Science
 
 Q_bot.py is the main file of the project. 
