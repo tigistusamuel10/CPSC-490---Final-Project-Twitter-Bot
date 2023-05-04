@@ -5,4 +5,4 @@ This repo is not meant to be ran as it is in active development and running on a
 
 Twitter account: [@motivater247](https://twitter.com/motivater247)
 
-Qbot.py is the primary execution file but will not work to run as the code is designed for my specific use case with my specific API keys.
+Q_bot.py is the primary execution file but will not work to run as the code is designed for my specific use case with my specific API keys.
